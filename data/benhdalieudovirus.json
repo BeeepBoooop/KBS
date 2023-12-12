@@ -1,0 +1,61 @@
+{
+    "target": [
+        {
+            "name": "Bệnh thủy đậu",
+            "rules": {
+                "1": "Sốt, mệt mỏi",
+                "2": "Phát ban trên da, thường bắt đầu ở ngực và lưng, sau đó lan ra toàn thân",
+                "3": "mụn nước, mụn mủ hoặc mụn nước vỡ ra",
+                "4": "thường ngứa, nhưng có thể đau.",
+                "5": "đau đầu, đau cơ"
+            },
+        "solution":"Cách điều trị: Không có thuốc đặc trị cho bệnh thủy đậu.Điều trị chủ yếu là hỗ trợ, bao gồm: Giảm đau, giảm ngứa.Ngăn ngừa nhiễm trùng thứ phát."
+        },
+        {
+            "name": "Bệnh zona",
+            "rules": {
+                "1": "Sốt, mệt mỏi, đau đầu, đau cơ",
+                "2": "Phát ban trên da",
+                "3": "xuất hiện ở một bên của cơ thể.",
+                "4": " mụn nước, mụn mủ hoặc mụn nước vỡ ra.",
+                "5": "thường ngứa, nhưng có thể đau"
+            },
+        "solution":"Cách điều trị: Dùng thuốc kháng virus. Giảm đau, giảm ngứa. Ngăn ngừa nhiễm trùng thứ phát."
+        },
+        {
+            "name": "Bệnh herpes",
+            "rules": {
+                "1": "Mụn nước, mụn rộp",
+                "2": " loét ở da hoặc niêm mạc",
+                "3": "Ngứa, đau, rát.",
+                "4": "Sốt, mệt mỏi",
+                "5": "đau đầu"
+            },
+        "solution":" Cách điều trị:Dùng thuốc kháng virus.Giảm đau, giảm ngứa."
+    
+        },
+        {
+            "name": "Bệnh tay, chân, miệng",
+            "rules": {
+                "1": "Sốt, mệt mỏi",
+                "2": "đau họng",
+                "3": "Loét miệng, lưỡi",
+                "4": "Phát ban trên da",
+                "5": " thường xuất hiện ở lòng bàn tay, lòng bàn chân, mông "
+            },
+        "solution":"Cách điều trị:Không có thuốc đặc trị cho bệnh tay, chân, miệng.Điều trị chủ yếu là hỗ trợ, bao gồm:Giảm đau, hạ sốt.Ngăn ngừa nhiễm trùng thứ phát."
+    
+        },
+        {
+            "name": "Bệnh sởi",
+            "rules": {
+                "1": "Sốt cao, mệt mỏi, khó chịu.",
+                "2": "Viêm kết mạc mắt, chảy nước mắt",
+                "3": "Ho, sổ mũi.",
+                "4": "Phát ban trên da ",
+                "5": "thường bắt đầu ở mặt và lan ra toàn thân"
+            },
+        "solution":" Cách điều trị:Không có thuốc đặc trị cho bệnh sởi.Điều trị chủ yếu là hỗ trợ, bao gồm:Giảm sốt, giảm đau.Ngăn ngừa nhiễm trùng thứ phát."
+        }
+    ]
+}

@@ -1,0 +1,65 @@
+{
+    "target": [
+      {
+        "name": "Bệnh chàm",
+        "rules": {
+          "1": "Mảng da mẩn đỏ, ngứa, khô",
+          "2": "Da bong tróc, nứt nẻ",
+          "3": "Mảng da có thể lan rộng ra",
+          "4": "mụn nước",
+          "5": "ngứa",
+          "6": "khô",
+          "7": "nứt nẻ",
+          "8": "bong tróc"
+        },
+        "solution":"Cách điều trị:Dùng thuốc bôi, thuốc uống, hoặc quang trị liệu.Giữ da sạch sẽ, ẩm mượt.Tránh các yếu tố kích thích da."
+      },
+      {
+        "name": "Bệnh mề đay",
+        "rules": {
+          "1": "Mảng da mẩn đỏ, ngứa, nổi lên khỏi bề mặt da",
+          "2": "Mảng da có thể lan rộng ra",
+          "3": "Mảng da có thể biến mất sau vài giờ hoặc vài ngày.",
+          "4": "da mẩn đỏ",
+          "5": "ngứa",
+          "6": "Sưng ở môi, lưỡi, cổ họng"
+          
+      },
+        "solution":"Cách điều trị:Xác định và tránh các yếu tố kích thích.Dùng thuốc kháng histamine.Dùng thuốc kháng viêm corticosteroid và quang trị liệu."
+      },
+      {
+        "name": "Bệnh viêm da tiếp xúc",
+        "rules": {
+          "1": "Mảng da mẩn đỏ, ngứa, khô.",
+          "2": "Da có thể bong tróc, nứt nẻ",
+          "3": "Mảng da có thể lan rộng ra",
+          "4": "nứt nẻ",
+          "5": "ngứa, khô",
+          "6": "bong tróc"
+        },
+        "solution":"Cách điều trị:Ngưng tiếp xúc với chất kích ứng.Dùng thuốc bôi, thuốc uống."
+      },
+      {
+        "name": "Bệnh viêm da dị ứng ",
+        "rules": {
+          "1": "Mảng da mẩn đỏ, ngứa, khô.",
+          "2": "Da có thể bong tróc, nứt nẻ.",
+          "3": "Mảng da có thể lan rộng ra",
+          "4": "Sưng ở môi, lưỡi, cổ họng",
+          "5": "nứt nẻ",
+          "6": "khô"
+        },
+        "solution":"Cách điều trị:Ngưng tiếp xúc với chất gây dị ứng.Dùng thuốc bôi, thuốc uống."
+      },
+      {
+        "name": "Bệnh viêm da do ánh sáng",
+        "rules": {
+          "1": "Mẩn đỏ ở mặt, cổ, tay và chân",
+          "2": "Sưng môi, lưỡi và cổ họng",
+          "3": "Ngứa ngáy khó chịu",
+          "4": "Vết loang trên da"
+        },
+        "solution":"Cách điều trị:Tránh tiếp xúc với ánh sáng mặt trời.Dùng thuốc bôi, thuốc uống."
+      }
+    ]
+  }

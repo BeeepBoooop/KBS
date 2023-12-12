@@ -1,0 +1,63 @@
+{
+  "target": [
+      {
+          "name": " Bệnh vẩy nến",
+                "rules": {
+              "1": "Mảng da dày, đỏ, có vảy.",
+              "2": "Mảng da thường xuất hiện ở khuỷu tay, đầu gối, da đầu, nhưng cũng có thể xuất hiện ở bất kỳ vùng da nào trên cơ thể.",
+              "3": "Mảng da có thể ngứa, đau",
+              "4": "đỏ",
+              "5": "có vảy",
+              "6": "da đầu",
+              "7": "đầu gối"
+          },
+          "solution": "  Cách điều trị:Dùng thuốc bôi, thuốc uống, hoặc liệu pháp ánh sáng.Giữ da sạch sẽ, ẩm mượt.Tránh các yếu tố kích thích da."
+      },
+      {
+          "name": "Bệnh Lupus ban đỏ",
+          "rules": {
+              "1": "Phát ban trên da, thường là ở mặt, cổ, ngực, lưng.",
+              "2": "Phát ban có thể xuất hiện dưới dạng mảng đỏ, sần sùi, có vảy",
+              "3": "Phát ban có thể ngứa, đau",
+              "4": "sđau khớp, mệt mỏi, sốtốt",
+              "5": "có vảy"
+          },
+          "solution": " Cách điều trị:Dùng thuốc ức chế miễn dịch.Dùng thuốc chống viêm.Điều trị các triệu chứng khác."
+      },
+      {
+          "name": "Bệnh viêm da cơ địa",
+          "rules": {
+              "1": "Mảng da mẩn đỏ, ngứa, khô",
+              "2": "Mảng da có thể bong tróc, nứt nẻ",
+              "3": "Mảng da có thể lan rộng ra.",
+              "4": "mần đỏ",
+              "5": "ngứa",
+              "6": "khô"
+             
+          },
+          "solution":" Cách điều trị:Dùng thuốc bôi, thuốc uống.Giữ da sạch sẽ, ẩm mượt.Tránh các yếu tố kích thích da."
+      },
+      {
+          "name": "Bệnh vảy cá ",
+          "rules": {
+              "1": "Mảng da dày, đỏ, có vảy",
+              "2": "Mảng da thường xuất hiện ở khuỷu tay, đầu gối, da đầu, nhưng cũng có thể xuất hiện ở bất kỳ vùng da nào trên cơ thể",
+              "3": "Mảng da có thể ngứa, đau",
+              "4": "đầu gối, da đầu",
+              "5": "đỏ, có vảy"
+          },
+          "solution":"  Cách điều trị:Dùng thuốc bôi, thuốc uống, hoặc liệu pháp ánh sáng.Giữ da sạch sẽ, ẩm mượt."
+      },
+      {
+          "name": "Bệnh bạch biến",
+          "rules": {
+              "1": "Vùng da mất sắc tố, thường là màu trắng",
+              "2": "Vùng da mất sắc tố có thể là một mảng nhỏ hoặc lớn.",
+              "3": "Vùng da mất sắc tố có thể xuất hiện ở bất kỳ vùng da nào trên cơ thể",
+              "4": "mất sắc tố"
+          },
+          "solution":"  Cách điều trị:Không có cách chữa trị bệnh bạch biến.Có thể dùng thuốc bôi, thuốc uống để làm chậm quá trình tiến triển của bệnh."
+      }
+    
+]
+}

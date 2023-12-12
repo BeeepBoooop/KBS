@@ -1,0 +1,65 @@
+{
+  "target": [
+    {
+      "name": "Bệnh nấm da",
+      "rules": {
+        "1": "Mảng da mẩn đỏ, ngứa",
+        "2": "Da có thể bong tróc, nứt nẻ",
+        "3": "Mảng da có thể lan rộng ra",
+        "4": "lan rộng ra",
+        "5": "nứt nẻ",
+        "6": "ngứa"
+        
+      },
+      "solution": " Cách điều trị:Dùng thuốc bôi hoặc thuốc uống.Vệ sinh da sạch sẽ, giữ da khô ráo."
+    },
+    {
+      "name": "Bệnh nấm tóc",
+      "rules": {
+        "1": "Tóc bị gãy, rụng",
+        "2": "Tóc có thể xuất hiện các mảng trắng, vàng, đen",
+        "3": "Tóc có thể bị bong tróc, gãy rụng thành từng mảng",
+        "4": "bong tróc",
+        "5": "gãy rụng"
+      },
+      "solution": "  Cách điều trị:Dùng thuốc bôi hoặc thuốc uống.Vệ sinh da đầu sạch sẽ."
+    },
+    {
+      "name": "Bệnh nấm móng",
+      "rules": {
+        "1": "Móng đổi màu, thường là màu vàng, nâu, xanh.",
+        "2": "Móng dày lên, giòn, dễ gãy",
+        "3": "Móng có thể bị bong ra khỏi giường móng",
+        "4": "giòn",
+        "5": "dễ gãy",
+        "6": "màu vàng, nâu, xanh"
+      },
+      "solution": "  Cách điều trị:Dùng thuốc bôi hoặc thuốc uống."
+    },
+    {
+      "name": "Bệnh nấm kẽ chân",
+      "rules": {
+        "1": "Kẽ chân bị mẩn đỏ, ngứa.",
+        "2": "Kẽ chân có thể bị bong tróc, nứt nẻ.",
+        "3": "Kẽ chân có thể bị đau",
+        "4": "nứt nẻ",
+        "5": "ngứa",
+        "6": "mẩn đỏ",
+        "7": "bong tróc"
+      },
+      "solution": " Cách điều trị:Dùng thuốc bôi.Vệ sinh bàn chân sạch sẽ, giữ bàn chân khô ráo."
+    },
+    {
+      "name": "Bệnh nấm toàn thân",
+      "rules": {
+        "1": "Mảng da mẩn đỏ, ngứa",
+        "2": "Da có thể bong tróc, nứt nẻ.",
+        "3": "Mảng da có thể lan rộng ra",
+        "4": "nứt nẻ",
+        "5": "ngứa",
+        "6": "Mần đỏ"
+      },
+      "solution": "  Cách điều trị:Dùng thuốc bôi hoặc thuốc uống."
+    }
+  ]
+}

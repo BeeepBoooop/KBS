@@ -1,0 +1,302 @@
+{
+    "target": [
+ {
+        "name": "Bệnh chàm",
+        "rules": {
+          "1": "Mảng da mẩn đỏ, ngứa, khô",
+          "2": "Da có thể bong tróc, nứt nẻ",
+          "3": "Mảng da có thể lan rộng ra",
+          "4": "mần đỏ",
+          "5": "ngứa",
+          "6": "khô",
+          "7": "nứt nẻ",
+          "8": "bong tróc"
+        },
+        "solution":"Cách điều trị:Dùng thuốc bôi, thuốc uống, hoặc liệu pháp ánh sáng.Giữ da sạch sẽ, ẩm mượt.Tránh các yếu tố kích thích da."
+      },
+      {
+        "name": "Bệnh mề đay",
+        "rules": {
+          "1": "Mảng da mẩn đỏ, ngứa, nổi lên khỏi bề mặt da",
+          "2": "Mảng da có thể lan rộng ra",
+          "3": "Mảng da có thể biến mất sau vài giờ hoặc vài ngày.",
+          "4": "da mẩn đỏ",
+          "5": "ngứa",
+          "6": "lan rộng ra"
+          
+      },
+        "solution":"Cách điều trị:Xác định và tránh các yếu tố kích thích.Dùng thuốc kháng histamine.Dùng thuốc kháng viêm corticosteroid."
+      },
+      {
+        "name": "Bệnh viêm da tiếp xúc",
+        "rules": {
+          "1": "Mảng da mẩn đỏ, ngứa, khô.",
+          "2": "Da có thể bong tróc, nứt nẻ",
+          "3": "Mảng da có thể lan rộng ra",
+          "4": "nứt nẻ",
+          "5": "ngứa, khô",
+          "6": "bong tróc"
+        },
+        "solution":"Cách điều trị:Ngưng tiếp xúc với chất kích ứng.Dùng thuốc bôi, thuốc uống."
+      },
+      {
+        "name": "Bệnh viêm da dị ứng ",
+        "rules": {
+          "1": "Mảng da mẩn đỏ, ngứa, khô.",
+          "2": "Da có thể bong tróc, nứt nẻ.",
+          "3": "Mảng da có thể lan rộng ra",
+          "4": "mẩn đỏ",
+          "5": "nứt nẻ",
+          "6": "khô"
+        },
+        "solution":"Cách điều trị:Ngưng tiếp xúc với chất gây dị ứng.Dùng thuốc bôi, thuốc uống."
+      },
+      {
+        "name": "Bệnh viêm da do ánh sáng",
+        "rules": {
+          "1": "Mảng da mẩn đỏ, ngứa, khô.",
+          "2": "Da có thể bong tróc, nứt nẻ.",
+          "3": "Mảng da có thể lan rộng ra",
+          "4": "mẩn đỏ",
+          "5": "nứt nẻ",
+          "6": "khô"
+        },
+        "solution":"Cách điều trị:Tránh tiếp xúc với ánh sáng mặt trời.Dùng thuốc bôi, thuốc uống."
+      },
+      {
+      "name": "Bệnh nấm da",
+      "rules": {
+        "1": "Mảng da mẩn đỏ, ngứa",
+        "2": "Da có thể bong tróc, nứt nẻ",
+        "3": "Mảng da có thể lan rộng ra",
+        "4": "lan rộng ra",
+        "5": "nứt nẻ",
+        "6": "ngứa"
+        
+      },
+      "solution": " Cách điều trị:Dùng thuốc bôi hoặc thuốc uống.Vệ sinh da sạch sẽ, giữ da khô ráo."
+    },
+    {
+      "name": "Bệnh nấm tóc",
+      "rules": {
+        "1": "Tóc bị gãy, rụng",
+        "2": "Tóc có thể xuất hiện các mảng trắng, vàng, đen",
+        "3": "Tóc có thể bị bong tróc, gãy rụng thành từng mảng",
+        "4": "bong tróc",
+        "5": "gãy rụng"
+      },
+      "solution": "  Cách điều trị:Dùng thuốc bôi hoặc thuốc uống.Vệ sinh da đầu sạch sẽ."
+    },
+    {
+      "name": "Bệnh nấm móng",
+      "rules": {
+        "1": "Móng đổi màu, thường là màu vàng, nâu, xanh.",
+        "2": "Móng dày lên, giòn, dễ gãy",
+        "3": "Móng có thể bị bong ra khỏi giường móng",
+        "4": "giòn",
+        "5": "dễ gãy",
+        "6": "màu vàng, nâu, xanh"
+      },
+      "solution": "  Cách điều trị:Dùng thuốc bôi hoặc thuốc uống."
+    },
+    {
+      "name": "Bệnh nấm kẽ chân",
+      "rules": {
+        "1": "Kẽ chân bị mẩn đỏ, ngứa.",
+        "2": "Kẽ chân có thể bị bong tróc, nứt nẻ.",
+        "3": "Kẽ chân có thể bị đau",
+        "4": "nứt nẻ",
+        "5": "ngứa",
+        "6": "mẩn đỏ",
+        "7": "bong tróc"
+      },
+      "solution": " Cách điều trị:Dùng thuốc bôi.Vệ sinh bàn chân sạch sẽ, giữ bàn chân khô ráo."
+    },
+    {
+      "name": "Bệnh nấm toàn thân",
+      "rules": {
+        "1": "Mảng da mẩn đỏ, ngứa",
+        "2": "Da có thể bong tróc, nứt nẻ.",
+        "3": "Mảng da có thể lan rộng ra",
+        "4": "nứt nẻ",
+        "5": "ngứa",
+        "6": "Mần đỏ"
+      },
+      "solution": "  Cách điều trị:Dùng thuốc bôi hoặc thuốc uống."
+    },
+{
+          "name": " Bệnh vẩy nến",
+                "rules": {
+              "1": "Mảng da dày, đỏ, có vảy.",
+              "2": "Mảng da thường xuất hiện ở khuỷu tay, đầu gối, da đầu, nhưng cũng có thể xuất hiện ở bất kỳ vùng da nào trên cơ thể.",
+              "3": "Mảng da có thể ngứa, đau",
+              "4": "đỏ",
+              "5": "có vảy",
+              "6": "da đầu",
+              "7": "đầu gối"
+          },
+          "solution": "  Cách điều trị:Dùng thuốc bôi, thuốc uống, hoặc liệu pháp ánh sáng.Giữ da sạch sẽ, ẩm mượt.Tránh các yếu tố kích thích da."
+      },
+      {
+          "name": "Bệnh Lupus ban đỏ",
+          "rules": {
+              "1": "Phát ban trên da, thường là ở mặt, cổ, ngực, lưng.",
+              "2": "Phát ban có thể xuất hiện dưới dạng mảng đỏ, sần sùi, có vảy",
+              "3": "Phát ban có thể ngứa, đau",
+              "4": "sđau khớp, mệt mỏi, sốtốt",
+              "5": "có vảy"
+          },
+          "solution": " Cách điều trị:Dùng thuốc ức chế miễn dịch.Dùng thuốc chống viêm.Điều trị các triệu chứng khác."
+      },
+      {
+          "name": "Bệnh viêm da cơ địa",
+          "rules": {
+              "1": "Mảng da mẩn đỏ, ngứa, khô",
+              "2": "Mảng da có thể bong tróc, nứt nẻ",
+              "3": "Mảng da có thể lan rộng ra.",
+              "4": "mần đỏ",
+              "5": "ngứa",
+              "6": "khô"
+             
+          },
+          "solution":" Cách điều trị:Dùng thuốc bôi, thuốc uống.Giữ da sạch sẽ, ẩm mượt.Tránh các yếu tố kích thích da."
+      },
+      {
+          "name": "Bệnh vảy cá ",
+          "rules": {
+              "1": "Mảng da dày, đỏ, có vảy",
+              "2": "Mảng da thường xuất hiện ở khuỷu tay, đầu gối, da đầu, nhưng cũng có thể xuất hiện ở bất kỳ vùng da nào trên cơ thể",
+              "3": "Mảng da có thể ngứa, đau",
+              "4": "đầu gối, da đầu",
+              "5": "đỏ, có vảy"
+          },
+          "solution":"  Cách điều trị:Dùng thuốc bôi, thuốc uống, hoặc liệu pháp ánh sáng.Giữ da sạch sẽ, ẩm mượt."
+      },
+      {
+          "name": "Bệnh bạch biến",
+          "rules": {
+              "1": "Vùng da mất sắc tố, thường là màu trắng",
+              "2": "Vùng da mất sắc tố có thể là một mảng nhỏ hoặc lớn.",
+              "3": "Vùng da mất sắc tố có thể xuất hiện ở bất kỳ vùng da nào trên cơ thể",
+              "4": "mất sắc tố"
+          },
+          "solution":"  Cách điều trị:Không có cách chữa trị bệnh bạch biến.Có thể dùng thuốc bôi, thuốc uống để làm chậm quá trình tiến triển của bệnh."
+      },
+{
+            "name": "Bệnh chốc lở ",
+            "rules": {
+              "1": "Mụn nước nhỏ",
+              "2": "Mụn nước dễ vỡ và chảy dịch, tạo thành mụn mủ",
+              "3": "Da xung quanh mụn mủ có thể sưng đỏ",
+              "4": "đau",
+              "5": "xuất hiện ở vùng da hở",
+              "6": "như mặt, tay, chân"
+            },
+            "solution": "Điều trị dùng thuốc kháng sinh uống hoặc bôi.Vệ sinh da sạch sẽ, giữ da khô ráo.Tránh gãi ngứa để tránh mụn nước vỡ ra, lây lan sang các vùng da khác"
+          },
+          {
+            "name": "Bệnh mủ da",
+            "rules": {
+              "1": "Mụn mủ, mụn nhọt, áp-xe",
+              "2": "mụn mủ có thể sưng đỏ",
+              "3": "đau",
+              "4": "xuất hiện ở vùng da kín",
+              "5": "như nách, mông",
+              "6": "bẹn"
+            },
+            "solution": "Điều trị dùng thuốc kháng sinh uống hoặc bôi.Vệ sinh da sạch sẽ, giữ da khô ráo.Tránh gãi ngứa để tránh mụn nước vỡ ra, lây lan sang các vùng da khác  "
+          },
+          {
+            "name": "Bệnh nấm móng",
+            "rules": {
+              "1": "Móng đổi màu",
+              "2": "màu vàng, nâu, xanh",
+              "3": "Móng dày lên",
+              "4": "giòn, dễ gãy",
+              "5": " bị bong ra khỏi giường móng",
+              "6": "rụng móng"
+            },
+            "solution": "Cách điều trị dùng thuốc bôi, thuốc uống hoặc laser.Điều trị toàn thân hoặc điều trị tại chỗ "
+          },
+          {
+            "name": "Bệnh giang mai",
+            "rules": {
+              "1": "Mụn rộp, loét ở vùng sinh dục, miệng",
+              "2": "Mụn rộp thường không đau, tự khỏi sau 3-6 tuần.",
+              "3": "Phát ban trên da",
+              "4": "ở lòng bàn tay, lòng bàn chân.",
+              "5": "như sốt, đau khớp",
+              "6": "Mụn rộp, loét ở các bộ phận khác trên cơ thể"
+            },
+            "solution": "Cách điều trị dùng thuốc kháng sinh đặc hiệu.Điều trị sớm để ngăn ngừa các biến chứng."
+          },
+          {
+            "name": "Bệnh lậu",
+            "rules": {
+              "1": "Niệu đạo chảy mủ, đau khi đi tiểu ",
+              "2": "Cổ tử cung chảy mủ, đau khi quan hệ tình dục",
+              "3": "như sốt, đau khớp",
+              "4": "viêm khớp, viêm màng não",
+              "5": "Phát ban trên da"
+            },
+            "solution": "Cách điều trị dùng thuốc kháng sinh đặc hiệu.Điều trị sớm để ngăn ngừa lây lan và các biến chứng"
+          },
+ {
+            "name": "Bệnh thủy đậu",
+            "rules": {
+                "1": "Sốt, mệt mỏi",
+                "2": "Phát ban trên da, thường bắt đầu ở ngực và lưng, sau đó lan ra toàn thân",
+                "3": "mụn nước, mụn mủ hoặc mụn nước vỡ ra",
+                "4": "thường ngứa, nhưng có thể đau.",
+                "5": "đau đầu, đau cơ"
+            },
+        "solution":"Cách điều trị: Không có thuốc đặc trị cho bệnh thủy đậu.Điều trị chủ yếu là hỗ trợ, bao gồm: Giảm đau, giảm ngứa.Ngăn ngừa nhiễm trùng thứ phát."
+        },
+        {
+            "name": "Bệnh zona",
+            "rules": {
+                "1": "Sốt, mệt mỏi, đau đầu, đau cơ",
+                "2": "Phát ban trên da",
+                "3": "xuất hiện ở một bên của cơ thể.",
+                "4": " mụn nước, mụn mủ hoặc mụn nước vỡ ra.",
+                "5": "thường ngứa, nhưng có thể đau"
+            },
+        "solution":"Cách điều trị: Dùng thuốc kháng virus. Giảm đau, giảm ngứa. Ngăn ngừa nhiễm trùng thứ phát."
+        },
+        {
+            "name": "Bệnh herpes",
+            "rules": {
+                "1": "Mụn nước, mụn rộp",
+                "2": " loét ở da hoặc niêm mạc",
+                "3": "Ngứa, đau, rát.",
+                "4": "Sốt, mệt mỏi",
+                "5": "đau đầu"
+            },
+        "solution":" Cách điều trị:Dùng thuốc kháng virus.Giảm đau, giảm ngứa."
+    
+        },
+        {
+            "name": "Bệnh tay, chân, miệng",
+            "rules": {
+                "1": "Sốt, mệt mỏi",
+                "2": "đau họng",
+                "3": "Loét miệng, lưỡi",
+                "4": "Phát ban trên da",
+                "5": " thường xuất hiện ở lòng bàn tay, lòng bàn chân, mông "
+            },
+        "solution":"Cách điều trị:Không có thuốc đặc trị cho bệnh tay, chân, miệng.Điều trị chủ yếu là hỗ trợ, bao gồm:Giảm đau, hạ sốt.Ngăn ngừa nhiễm trùng thứ phát."
+    
+        },
+        {
+            "name": "Bệnh sởi",
+            "rules": {
+                "1": "Sốt cao, mệt mỏi, khó chịu.",
+                "2": "Viêm kết mạc mắt, chảy nước mắt",
+                "3": "Ho, sổ mũi.",
+                "4": "Phát ban trên da ",
+                "5": "thường bắt đầu ở mặt và lan ra toàn thân"
+            },
+        "solution":" Cách điều trị:Không có thuốc đặc trị cho bệnh sởi.Điều trị chủ yếu là hỗ trợ, bao gồm:Giảm sốt, giảm đau.Ngăn ngừa nhiễm trùng thứ phát."
+        }
+    ]
+}

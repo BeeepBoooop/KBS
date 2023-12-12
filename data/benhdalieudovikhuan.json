@@ -1,0 +1,63 @@
+{
+    "target": [
+        {
+            "name": "Bệnh chốc lở ",
+            "rules": {
+              "1": "Mụn nước nhỏ",
+              "2": "Mụn nước dễ vỡ và chảy dịch, tạo thành mụn mủ",
+              "3": "Da xung quanh mụn mủ có thể sưng đỏ",
+              "4": "đau",
+              "5": "xuất hiện ở vùng da hở",
+              "6": "như mặt, tay, chân"
+            },
+            "solution": "Điều trị dùng thuốc kháng sinh uống hoặc bôi.Vệ sinh da sạch sẽ, giữ da khô ráo.Tránh gãi ngứa để tránh mụn nước vỡ ra, lây lan sang các vùng da khác"
+          },
+          {
+            "name": "Bệnh mủ da",
+            "rules": {
+              "1": "Mụn mủ, mụn nhọt, áp-xe",
+              "2": "mụn mủ có thể sưng đỏ",
+              "3": "đau",
+              "4": "xuất hiện ở vùng da kín",
+              "5": "nhức nách, mông",
+              "6": "bẹn"
+            },
+            "solution": "Điều trị dùng thuốc kháng sinh uống hoặc bôi.Vệ sinh da sạch sẽ, giữ da khô ráo.Tránh gãi ngứa để tránh mụn nước vỡ ra, lây lan sang các vùng da khác  "
+          },
+          {
+            "name": "Bệnh nấm móng",
+            "rules": {
+              "1": "Móng đổi màu",
+              "2": "màu vàng, nâu, xanh",
+              "3": "Móng dày lên",
+              "4": "giòn, dễ gãy",
+              "5": " bị bong ra khỏi giường móng",
+              "6": "rụng móng"
+            },
+            "solution": "Cách điều trị dùng thuốc bôi, thuốc uống hoặc laser.Điều trị toàn thân hoặc điều trị tại chỗ "
+          },
+          {
+            "name": "Bệnh giang mai",
+            "rules": {
+              "1": "Mụn rộp, loét ở vùng sinh dục, miệng",
+              "2": "Mụn rộp thường không đau, tự khỏi sau 3-6 tuần.",
+              "3": "Phát ban trên da",
+              "4": "ở lòng bàn tay, lòng bàn chân.",
+              "5": "như sốt, đau khớp",
+              "6": "Mụn rộp, loét ở các bộ phận khác trên cơ thể"
+            },
+            "solution": "Cách điều trị dùng thuốc kháng sinh đặc hiệu.Điều trị sớm để ngăn ngừa các biến chứng."
+          },
+          {
+            "name": "Bệnh lậu",
+            "rules": {
+              "1": "Niệu đạo chảy mủ, đau khi đi tiểu ",
+              "2": "Cổ tử cung chảy mủ, đau khi quan hệ tình dục",
+              "3": "như sốt, đau khớp",
+              "4": "viêm khớp, viêm màng não",
+              "5": "Phát ban trên da"
+            },
+            "solution": "Cách điều trị dùng thuốc kháng sinh đặc hiệu.Điều trị sớm để ngăn ngừa lây lan và các biến chứng"
+          }
+    ]
+}
